@@ -3,7 +3,7 @@ class nginx::config {
     content => template('nginx/my.conf'),
   }
 
-  file { '/usr/share/ninx/html/index.html':
+  file { '/usr/share/nginx/html/index.html':
     content => template('nginx/index.html'),
   }
 }
