@@ -1,1 +1,1 @@
-# puppet--getting-started-book
+[入門Puppet](https://github.com/kentaro/puppet-book)をやってます。
