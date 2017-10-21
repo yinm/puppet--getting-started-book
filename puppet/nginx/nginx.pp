@@ -39,4 +39,3 @@ service { 'nginx':
   hasrestart => true,
   require => File['/etc/nginx/conf.d/my.conf'],
 }
-
